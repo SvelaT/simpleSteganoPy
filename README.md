@@ -16,3 +16,5 @@
 3. For sound files only use wav files(input and output)
 
 ### Made by SvelaT
+
+Watch my video: https://www.youtube.com/watch?v=t7xeyP9BGU8
